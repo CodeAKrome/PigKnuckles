@@ -1,6 +1,6 @@
 # FACTRY mode
 
-## Somehow I managed to put the radio into what I'm calling Factory mode while turning the FT-500 on holding buttons to put it into Wires-X mode (GM + X + Pwr).
+## Somehow I managed to put the radio into what I'm calling Factory mode while turning the FTM-500 on holding buttons to put it into Wires-X mode (GM + X + Pwr).
 ### There is a gray bar across the top of the display which says FACTRY, right justified.
 
 ![maincrop](https://github.com/CodeAKrome/PigKnuckles/assets/44734955/5cecf985-241a-44a7-bed8-baf64b5f22d3)
